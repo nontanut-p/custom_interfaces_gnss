@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/pat/gps/install/web_video_server/include/**",
+        "/home/pat/gps/install/v4l2_camera/include/**",
+        "/home/pat/gps/install/tutorial_interfaces/include/**",
+        "/home/pat/gps/install/turtlesim/include/**",
+        "/home/pat/gps/install/realsense_camera_msgs/include/**",
+        "/home/pat/gps/install/realsense2_camera/include/**",
+        "/home/pat/gps/install/realsense2_camera_msgs/include/**",
+        "/home/pat/gps/install/gps_pubsub/include/**",
+        "/home/pat/gps/install/async_web_server_cpp/include/**",
+        "/opt/ros/foxy/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

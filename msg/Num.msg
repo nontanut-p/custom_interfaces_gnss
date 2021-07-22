@@ -1,0 +1,8 @@
+float64 lat
+float64 lon
+float64 alt
+float64 dir
+float64 velo
+float64 x
+float64 y
+float64 dis
